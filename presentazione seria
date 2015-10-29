@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>GIOGIO</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body bgcolor="#grey">
+<body TEXT="#blue">
+<video src="https://www.youtube.com/watch?v=TUQ3nVoN-ko" controls="controls">
+</video>
+	<header role="banner">
+		<h1>This is not professional, have fun sometimes, stay crazy!!!</h1>
+		<nav role="navigation">
+			<ul>
+				<li><a href="">casa base</a></li>
+				<li><a href="#about">approposito di BBOH?</a></li>
+				<li><a href="#links">collegamenti extraterrestri</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<article id="about">
+		<b><h2>seems to be hard</h2></b>
+		<p>Avete fatto tutti cose lunghissime!!!
+		</p>Black sheep 4evah, go easy.
+	</article>
+	
+	<aside role="complementary" id="links">
+		<h2>Link utili</h2>
+		<ul>
+			<li><a href="www.youporn.com">something good</a></li>
+			<li><a href="https://www.java.com">something bad, try it!</a></li>
+		</ul>
+	</aside>
+	
+	<footer role="FINISH">
+		<p>&copy; xxx sitofasullo senza copyright</p>
+	</footer>
+</body>
+</html>
+<BODY BACKGROUND="http://celebmafia.com/wp-content/uploads/2014/10/Nina-Dobrev-tvd-08.jpg">
