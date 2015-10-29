@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>GIOGIO</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body bgcolor="#grey">
+<body TEXT="#blue">
+	<header role="banner">
+		<h1>This is not professional!</h1>
+		<nav role="navigation">
+			<ul>
+				<li><a href="">casa</a></li>
+				<li><a href="#about">approposito</a></li>
+				<li><a href="#links">collegamenti</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<article id="about">
+		<b><h2>seems to be hard</h2></b>
+		<p>Ciaone!!! </p>
+	</article>
+	
+	<aside role="complementary" id="links">
+		<h2>Link utili</h2>
+		<ul>
+			<li><a href="https://github.com/ldalzovo/corso_analista_programmatore_mobile">something</a></li>
+			<li><a href="https://www.java.com">something else</a></li>
+		</ul>
+	</aside>
+	
+	<footer role="contentinfo">
+		<p>&copy; xxx sitofasullo</p>
+	</footer>
+</body>
+</html>
+<BODY BACKGROUND="http://www.havocpoint.it/wp-content/uploads/2015/05/mh4u2.jpg">
